@@ -45,7 +45,7 @@
 #include "atecc508a.h"
 #include "log.h"
 
-#define ATECC508A_ADDR 0x60
+#define ATECC508A_ADDR 0x35
 #define ATECC508A_WAKE_DELAY_US 1500
 
 // The ATECC508A/608A have different times for how long to wait for commands to complete.
